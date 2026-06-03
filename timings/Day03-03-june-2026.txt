@@ -3,7 +3,8 @@ Today's Task
 2.5 Hours     =    Morning Class   
 1 hour        =    Types of IP address
 1 hour        =    practice linux 
-
+1 hour        =    git push
+1 hour        =    homework (Types of IP address) 
 
 
 
